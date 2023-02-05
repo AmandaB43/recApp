@@ -1,5 +1,5 @@
-import Trending from "../trending";
-import Popular from "../popular";
+import Trending from "../Healthy";
+import Popular from "../Popular";
 
 import React from 'react'
 
